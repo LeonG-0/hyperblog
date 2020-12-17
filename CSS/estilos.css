@@ -8,8 +8,10 @@ body{
 }
 
 #cabecera{
-    background: #38D;
+    background: #33A;
+    box-shadow: 0px 5px 10px;
     color: white;
+    font-weight: bold;
     margin: 0;
     padding: 0.5em;
 }
